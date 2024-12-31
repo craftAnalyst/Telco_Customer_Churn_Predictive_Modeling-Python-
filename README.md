@@ -13,8 +13,6 @@ customer retention and optimize business strategies.
 Cleaned and preprocessed the data, handling missing values and encoding categorical variables.
 Model Building: Implemented a classification algorithm logistic regression achieving 77% accuracy.
 Evaluation: Evaluated model performance using metrics like accuracy, precision, recall, and fi-score.  
-![python 1](https://github.com/user-attachments/assets/88bc815a-63f4-4760-9f2c-7a55b542702f)
-
 
 ## Key Insights: 
 Contract length and customer service satisfaction were crucial predictors of churn. The model provided valuable insights for retention strategies.  
