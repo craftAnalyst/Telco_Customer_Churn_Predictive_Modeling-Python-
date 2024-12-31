@@ -6,7 +6,7 @@ I developed a predictive model to forecast customer churn in a telco dataset usi
 customer retention and optimize business strategies.
 
 ## Notebook
-<a href="https://1drv.ms/x/c/ebab623a643e4df1/ESkIcYVEdZVPl1W77ZPmIpIBEjzIgzDvJkpz4xncxlYW6A?e=IUmnHn">Suicide Rate Data</a> 
+<a href="https://github.com/craftAnalyst/Telco_Customer_Churn_Predictive_Modeling-Python-/blob/main/Untitled26.ipynb.ipynb">Machine Learning Model</a> 
 
 ## Process:
 ## Data Preparation: 
