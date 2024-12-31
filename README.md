@@ -5,6 +5,9 @@ Customer Churn Prediction Using Machine Learning Model
 I developed a predictive model to forecast customer churn in a telco dataset using supervised learning techniques. The project aimed to identify the most significant factors influencing
 customer retention and optimize business strategies.
 
+## Notebook
+<a href="https://1drv.ms/x/c/ebab623a643e4df1/ESkIcYVEdZVPl1W77ZPmIpIBEjzIgzDvJkpz4xncxlYW6A?e=IUmnHn">Suicide Rate Data</a> 
+
 ## Process:
 ## Data Preparation: 
 Cleaned and preprocessed the data, handling missing values and encoding categorical variables.
